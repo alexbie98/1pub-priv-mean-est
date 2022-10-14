@@ -4,9 +4,7 @@ A proof-of-concept numerical simulation demonstrating the effectiveness of _1 pu
 
 This code is referenced in our NeurIPS 2022 paper:
 
-[Private Estimation with Public Data](https://arxiv.org/abs/2208.07984) 
-
-by Alex Bie, Gautam Kamath, Vikrant Singhal.
+[Private Estimation with Public Data](https://arxiv.org/abs/2208.07984) by Alex Bie, Gautam Kamath, Vikrant Singhal.
 
 
 ## Running the code
@@ -36,10 +34,8 @@ Targeting zCDP at ρ = 0.5, we examine the effect of 1 public sample on CoinPres
 
 
 ## Acknowledgements
-This code makes heavy used of original authors' [implementation of CoinPress](https://github.com/twistedcubic/coin-press).
+This code makes heavy use of the original authors' [implementation of CoinPress](https://github.com/twistedcubic/coin-press).
 
-Please see their paper for more details about CoinPress:
+See their paper for more details about CoinPress:
 
-[CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618)
-
-by Sourav Biswas, Yihe Dong, Gautam Kamath, Jonathan Ullman. 
+[CoinPress: Practical Private Mean and Covariance Estimation](https://arxiv.org/abs/2006.06618) by Sourav Biswas, Yihe Dong, Gautam Kamath, Jonathan Ullman. 
