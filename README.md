@@ -8,7 +8,7 @@ This code is referenced in our NeurIPS 2022 paper:
 
 
 ## Running the code
-Tested on Python 3.10.0.
+Tested on Python 3.10.6.
 - Install required packages: `pip install -r requirements.txt`
 - Reproduce the figures in the paper: `python run.py` 
 - Figures will be dumped into `./plots/*.png`

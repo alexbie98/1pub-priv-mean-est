@@ -124,4 +124,3 @@ def L1(est): # assuming 0 vector is gt
     
 def L2(est): # assuming 0 vector is gt
     return np.linalg.norm(est)
-
