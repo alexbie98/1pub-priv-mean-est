@@ -4,7 +4,7 @@ A proof-of-concept numerical simulation demonstrating the effectiveness of _1 pu
 
 This code is referenced in our NeurIPS 2022 paper:
 
-[Private Estimation with Public Data](https://arxiv.org/abs/2208.07984) by Alex Bie, Gautam Kamath, Vikrant Singhal.
+[Private Estimation with Public Data](https://arxiv.org/abs/2208.07984) by Alex Bie*, Gautam Kamath*, Vikrant Singhal* (*alphabetical order).
 
 
 ## Running the code
